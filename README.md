@@ -1,4 +1,4 @@
-# SQL-Nanodegree
+# SQL-Nanodegree (Udacity, 2020)
 
 Learning goals:
 - Perform analysis on data stored in relational and non-relational database systems to power strategic decision-making. 
